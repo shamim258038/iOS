@@ -1,9 +1,0 @@
-
-/* Class = "UITextField"; placeholder = "Enter your name"; ObjectID = "d7J-5A-kNP"; */
-"d7J-5A-kNP.placeholder" = "Enter your name";
-
-/* Class = "UILabel"; text = "Label"; ObjectID = "eBi-Q3-fEy"; */
-"eBi-Q3-fEy.text" = "Label";
-
-/* Class = "UIButton"; normalTitle = "Say"; ObjectID = "gG4-XJ-beK"; */
-"gG4-XJ-beK.normalTitle" = "Say";
