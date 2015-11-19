@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     @IBOutlet var messageLable: UILabel!
     @IBOutlet var txtField: UITextField!
 
-    
+    @IBOutlet var rebel: UILabel!
     @IBAction func sayAction(sender: UIButton) {
         let sayMessage = txtField.text
         messageLable.text = sayMessage
