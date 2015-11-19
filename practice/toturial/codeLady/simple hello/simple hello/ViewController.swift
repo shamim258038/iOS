@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     @IBOutlet var rebel: UILabel!
     @IBAction func sayAction(sender: UIButton) {
         let sayMessage = txtField.text
-        messageLable.text = sayMessage
+        messageLable.text = "Hi, " + sayMessage!
     }
     override func viewDidLoad() {
         super.viewDidLoad()
